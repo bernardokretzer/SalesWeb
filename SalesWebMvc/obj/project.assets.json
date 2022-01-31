@@ -12659,11 +12659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estag\\OneDrive\\Área de Trabalho\\Projetos_C#\\Web\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "C:\\Users\\Estag\\OneDrive\\Área de Trabalho\\SalesWeb\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "C:\\Users\\Estag\\OneDrive\\Área de Trabalho\\Projetos_C#\\Web\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectPath": "C:\\Users\\Estag\\OneDrive\\Área de Trabalho\\SalesWeb\\SalesWebMvc\\SalesWebMvc.csproj",
       "packagesPath": "C:\\Users\\Estag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estag\\OneDrive\\Área de Trabalho\\Projetos_C#\\Web\\SalesWebMvc\\SalesWebMvc\\obj\\",
+      "outputPath": "C:\\Users\\Estag\\OneDrive\\Área de Trabalho\\SalesWeb\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
