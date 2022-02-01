@@ -8,7 +8,7 @@ namespace SalesWebMvc.Models {
     public class Seller {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Eamil { get; set; }
+        public string Email { get; set; }
         public DateTime BithDate { get; set; }
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
@@ -16,10 +16,10 @@ namespace SalesWebMvc.Models {
 
         public Seller() { }
 
-        public Seller(int id, string name, string eamil, DateTime bithDate, double baseSalary, Department department) {
+        public Seller(int id, string name, string email, DateTime bithDate, double baseSalary, Department department) {
             Id = id;
             Name = name;
-            Eamil = eamil;
+            Email = email;
             BithDate = bithDate;
             BaseSalary = baseSalary;
             Department = department;

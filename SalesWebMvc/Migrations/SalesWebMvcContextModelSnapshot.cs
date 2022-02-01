@@ -60,7 +60,7 @@ namespace SalesWebMvc.Migrations
 
                     b.Property<int?>("DepartmentId");
 
-                    b.Property<string>("Eamil");
+                    b.Property<string>("Email");
 
                     b.Property<string>("Name");
 
